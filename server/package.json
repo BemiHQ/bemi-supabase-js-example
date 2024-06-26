@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@bemi-db/supabase-js": "^0.1.0",
+    "@supabase/supabase-js": "^2.43.5"
+  },
+  "devDependencies": {
+    "supabase": "^1.176.10"
+  }
+}
